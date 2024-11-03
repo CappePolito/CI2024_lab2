@@ -6,6 +6,11 @@ Lab 2 of computational intelligence
 The best performer is lab2Nuovo, you can run it to get good results with a popoulation of 200 and 20_000 generations.
 You will get good (usually optimal) results (not in china ofc) in reasonable time
 
+The code has 3 mutate algorithms: 
+the first one is the most simple one (and pretty inefficient
+the second one can get very good results, but it's a bit slow
+the third one is faster and can get results very similar to the second one, but struggles getting to the optimal solution.
+
 If you have time to spare i got china down to 54877.11 km (in 3,5 hours mind you) with a population of 400 and 20_000 generations, and it was still improving...
 For the others i got optimal results for all of them.
 
@@ -40,22 +45,34 @@ In the code i have a couple of mutate algorithms, the one uncommented right now 
 
 
 VANUTATU
+
 1345.5449564733112, 1000 generations, 50 popoulation, second mutate algorithm
 
+.
+
 ITALY
+
 4172.762613916409 km, 6000 generations, 200 popoulation, second mutate algorithm
+
+.
 
 RUSSIA
 
-34890.73 km, 20000 generations, 200 popoulation, third mutate algorithm
+34283.674646845226 km, 36000 generations, 200 popoulation, second mutate algorithm
+
+.
 
 US
-40678 km, 50000 generations, 500 popoulation
+
+40678,28 km, 50000 generations, 500 popoulation, third mutate algorithm
+
+.
 
 CHINA
-54877.11 km, 20000 generations
 
+54877.11 km, 20000 generations, 200 popoulation, third muatate algorithm
 
+.
 
 
 
