@@ -3,11 +3,11 @@ Lab 2 of computational intelligence
 
 
 
-The best performer is lab2Nuovo, you can run to get good results the code with a popoulation of 200 and 20_000 generations
-you will get good (usually optimal) results (not in china ofc) in reasonable time
+The best performer is lab2Nuovo, you can run it to get good results with a popoulation of 200 and 20_000 generations.
+You will get good (usually optimal) results (not in china ofc) in reasonable time
 
-if you have time to spare i got china down to 54877.11 km (in 3,5 hours mind you) with a population of 400 and 20_000 generations, and it was still improving...
-
+If you have time to spare i got china down to 54877.11 km (in 3,5 hours mind you) with a population of 400 and 20_000 generations, and it was still improving...
+For the others i got optimal results for all of them.
 
 Lab2BadVersion is the one where i was experimenting with new stuff, but has become really slow with the progressive updates...
 I do not suggest you run it, but if you have a couple hours to spare you are more than welcome to do XD.
@@ -37,3 +37,27 @@ Elitism: Preserves a portion of the top-performing routes in each generation to 
 
 
 In the code i have a couple of mutate algorithms, the one uncommented right now is the best performer one, if you want you can also try the other ones, they all work, albeit a bit slower.
+
+
+VANUTATU
+1345.5449564733112, 1000 generations, 50 popoulation, second mutate algorithm
+
+ITALY
+4172.762613916409 km, 6000 generations, 200 popoulation, second mutate algorithm
+
+RUSSIA
+
+34890.73 km, 20000 generations, 200 popoulation, third mutate algorithm
+
+US
+40678 km, 50000 generations, 500 popoulation
+
+CHINA
+54877.11 km, 20000 generations
+
+
+
+
+
+
+
